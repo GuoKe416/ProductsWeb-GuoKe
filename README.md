@@ -1,7 +1,7 @@
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuoKe416)](https://github.com/anuraghazra/github-readme-stats)
 
 # 🥔商品文件库管理系统
 [![GitHub Stars](https://img.shields.io/github/stars/GuoKe416/ProductsWeb-GuoKe?style=social)](https://github.com/GuoKe416/ProductsWeb-GuoKe/stargazers)  
+[![star](https://gitee.com/hyk0416/ProductsWeb-GuoKe/badge/star.svg?theme=dark)](https://gitee.com/hyk0416/ProductsWeb-GuoKe/stargazers)
 [![GitHub Contributors](https://img.shields.io/github/contributors/GuoKe416/ProductsWeb-GuoKe?style=social)](https://github.com/GuoKe416/ProductsWeb-GuoKe/graphs/contributors)  
 [![GitHub License](https://img.shields.io/github/license/GuoKe416/ProductsWeb-GuoKe)](https://github.com/GuoKe416/ProductsWeb-GuoKe/blob/main/LICENSE)
 
