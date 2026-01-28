@@ -109,5 +109,10 @@
 - 微信：hyk416-
 
 ---
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=GuoKe416/ProductsWeb-GuoKe&type=date&legend=top-left)](https://www.star-history.com/#GuoKe416/ProductsWeb-GuoKe&type=date&legend=top-left)
+
+---
 
 感谢使用商品文件库管理系统！ 
